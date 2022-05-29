@@ -1,7 +1,7 @@
 # Etch A Sketch Toy
 Etch-a-sketch toy created using only HTML, CSS and  vanilla JavaScript.
 
-🔗 **Live preview:** [here]()
+🔗 **Live preview:** [here](https://kalpitborkar.github.io/etch-a-sketch/)
 
 ## Built with
 - [HTML5](https://html5.org/)
