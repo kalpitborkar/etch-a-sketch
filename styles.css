@@ -115,3 +115,18 @@ input[type="range"] {
 .grid-element {
   user-select: none;
 }
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.fa-github {
+  color: white;
+  font-size: 24px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.fa-github:hover {
+  transform: rotate(360deg) scale(1.2);
+}
