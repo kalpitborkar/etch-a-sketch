@@ -11,3 +11,6 @@ Etch-a-sketch toy created using only HTML, CSS and  vanilla JavaScript.
 ### Third party code
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
+
+## License
+Distributed under the MIT License. See `LICENSE.md` for more information.
